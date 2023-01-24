@@ -1,3 +1,7 @@
+"""
+@author: Vishwesh Malur Somashekar
+Python Script to print hello world
+"""
 import datetime
 
 #fuction to define scrren brand
